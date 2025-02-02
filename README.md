@@ -28,7 +28,7 @@ The datasets used are:
 - Biodiesel: The amount of energy consumed from biodiesel sources, measured in trillion BTUs. 
 
 ## Research Question
-1. [Looking at the impact of different renewable sources on the total renewable energy consumption in the U.S. from 1980 to 2021, can the growth in total renewable energy consumption be explained by the combined influence of solar, wind, biomass, and hydroelectric energy?]
+1. Looking at the impact of different renewable sources on the total renewable energy consumption in the U.S. from 1980 to 2021, can the growth in total renewable energy consumption be explained by the combined influence of solar, wind, biomass, and hydroelectric energy?
    
 ## References 
 [1] “PURPA Qualifying Facilities | Federal Energy Regulatory Commission.” Accessed: Sep. 19, 2024. [Online]. Available: https://www.ferc.gov/qf 
