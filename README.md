@@ -40,4 +40,21 @@ Looking at the impact of different renewable sources on the total renewable ener
   - **Generalized Additive Model (GAM)** for non-linear relationships.
   - **Feature selection using VIF and AIC/BIC.**
   - **Added interaction terms** for Solar × Wind Energy.
+ 
+## Results
+- **Adjusted R²:** $0.944$ (94.4% of variance explained)
+- **MSE:** $0.082$
+- **RMSE:** $0.287$
+- **MAE:** $0.154$
+- **Cross-validation R²:** $0.943$
 
+### Findings
+- Solar, wind, and biomass energy have a significant impact on total renewable energy consumption (p < 0.05). 
+- Hydroelectric power is less influential compared to other sources.
+- The Solar × Wind interaction is significant, suggesting a synergistic effect.
+- The GAM model significantly outperforms MLR in capturing trends.
+
+## Technologies Used
+- Programming Language: R
+- Libraries: ggplot2, dplyr, mgcv, caret, corrplot
+- Modeling Techniques: Multiple Linear Regression, GAM, PCA, Cross-Validation
